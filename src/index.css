@@ -1,0 +1,15 @@
+.textform-css {
+  width: 750px;
+  margin-left: 25%;
+  border: 1px solid green;
+  border-radius: 11px;
+  height: 310px;
+  font-size: 30px;
+  font-family: fangsong;
+}
+
+.buttons {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
